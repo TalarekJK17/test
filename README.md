@@ -1,5 +1,5 @@
 # test
 
-[a relative link](another-page.md)
+[test](another-page.md)
 
 test
